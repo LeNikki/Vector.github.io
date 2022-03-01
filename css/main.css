@@ -5,6 +5,8 @@
 
 .container{
     margin:4em;
+    display:flex;
+    justify-content: center;
    
 }
 .container h1{
